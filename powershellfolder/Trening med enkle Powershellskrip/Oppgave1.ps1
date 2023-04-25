@@ -1,0 +1,5 @@
+$namn = Read-Host "Hva heiter du?"
+$handling = Read-Host "Hva gjør du?"
+$tal = Read-Host "Skriv eit tall."
+$einting = Read-Host "Ein ting eller hvor?"
+Write-Host "$namn $handling $tal ganger på $einting ."
