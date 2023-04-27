@@ -1,3 +1,5 @@
+#Her lager Kevin eit tall spil
+
 $randomnumber = Get-random -Minimum 1 -Maximum 101
 
 for($spelar -ne $randomnumber){
